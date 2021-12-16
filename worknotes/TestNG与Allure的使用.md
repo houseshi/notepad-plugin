@@ -230,7 +230,7 @@ Allure.addAttachment("My attachment", "My attachment content");
 
 ## 链接
 
-可配合allure.properties 使用， allure.link.issue.pattern=http://git.youlu.com/niaoshuai/biz_manage/issues/{}
+可配合allure.properties 使用， allure.link.issue.pattern=http://git.test.com/test/biz_manage/issues/{}
 
 ```java
 @Issue("432")
